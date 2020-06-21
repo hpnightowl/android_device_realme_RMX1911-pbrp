@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #
 # Copyright (C) 2019 The TwrpBuilder Open-Source Project
 #
